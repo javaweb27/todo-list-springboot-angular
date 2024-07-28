@@ -1,0 +1,12 @@
+{
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
+  "recommendations": [
+    "angular.ng-template",
+    "segerdekort.angular-cli",
+    "YoavBls.pretty-ts-errors",
+    "dsznajder.es7-react-js-snippets",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss"
+  ]
+}

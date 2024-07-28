@@ -1,0 +1,10 @@
+{
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
+  "recommendations": [
+    "vscjava.vscode-java-pack",
+    "vmware.vscode-boot-dev-pack",
+    "rangav.vscode-thunder-client",
+    "redhat.vscode-yaml",
+    "PrateekMahendrakar.prettyxml"
+  ]
+}
